@@ -5,3 +5,5 @@ Repository for testing my Git/GitHub setup
 This is a line from RStudio.
 =======
 >>>>>>> 601242b2d5800084962b2bc965c3fde6df1c1b5d
+
+This is a line from Github
